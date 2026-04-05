@@ -1,0 +1,22 @@
+@import 'tailwindcss';
+
+/* Max Detailing — premium gold/amber palette */
+@theme {
+  --color-primary: #d97706;
+  --color-primary-dark: #92400e;
+  --color-secondary: #d97706;
+  --color-secondary-dark: #b45309;
+  --color-accent: #fffbeb;
+  --color-accent-dark: #fde68a;
+}
+
+/* Keep anchor targets visible under the fixed navbar. */
+[id] {
+  scroll-margin-top: 5rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

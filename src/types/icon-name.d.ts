@@ -1,0 +1,16 @@
+type IconName =
+  | 'mail'
+  | 'phone'
+  | 'send'
+  | 'calendar'
+  | 'arrow'
+  | 'location'
+  | 'instagram'
+  | 'whatsapp'
+  | 'viber'
+  | 'smile'
+  | 'sparkles'
+  | 'layers'
+  | 'shieldCheck'
+  | 'scan'
+  | 'zap';
