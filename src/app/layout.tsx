@@ -70,7 +70,7 @@ export default function RootLayout({children}: Readonly<{children: ReactNode}>) 
               description:
                 'Premium car detailing u Beogradu — poliranje, keramička zaštita, PPF i enterijer detailing.',
               email: 'info@max-detailing.rs',
-              telephone: '+381641234567',
+              telephone: '+381601533727',
               address: {
                 '@type': 'PostalAddress',
                 addressLocality: 'Beograd',

@@ -10,8 +10,8 @@ const contactItems: ContactItem[] = [
   },
   {
     title: 'Telefon / WhatsApp',
-    href: 'tel:+381641234567',
-    value: '+381 64 123 4567',
+    href: 'tel:+381601533727',
+    value: '+381 60 153 3727',
     icon: 'phone',
     iconClassName: 'text-secondary transition',
     containerClassName: '',

@@ -87,7 +87,7 @@ const ExteriorPage = () => (
         src={
           'https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=1920'
         }
-        alt={'Exterior car detailing'}
+        alt={'Eksterier car detailing'}
         className={'absolute inset-0 h-full w-full object-cover opacity-40'}
       />
       <div
@@ -209,7 +209,7 @@ const ExteriorPage = () => (
               className={'group overflow-hidden rounded-2xl'}>
               <img
                 src={src}
-                alt={`Exterior detailing rad ${i + 1}`}
+                alt={`Eksterier detailing rad ${i + 1}`}
                 className={
                   'aspect-square h-full w-full object-cover transition-transform duration-500 group-hover:scale-105'
                 }
@@ -253,11 +253,11 @@ const ExteriorPage = () => (
               />
             </Link>
             <Link
-              href={'tel:+381641234567'}
+              href={'tel:+381601533727'}
               className={
                 'flex items-center gap-2 rounded-full border border-white/30 px-8 py-4 font-medium text-white transition hover:border-white/60 hover:bg-white/10'
               }>
-              {'+381 64 123 4567'}
+              {'+381 60 153 3727'}
             </Link>
           </div>
         </motion.div>

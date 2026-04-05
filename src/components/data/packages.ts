@@ -21,7 +21,7 @@ const packages: Package[] = [
     price: 'od 8.000 RSD',
     priceNote: 'Najpopularnije',
     features: [
-      'Detaljan exterior wash',
+      'Detaljan eksterier wash',
       'Iron & tar decontaminacija',
       'Dubinsko čišćenje enterijera',
       'Nega kože ili tkanine',

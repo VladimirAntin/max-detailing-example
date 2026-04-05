@@ -12,8 +12,8 @@ const navLinks = [
   {href: '/', title: 'Početna', section: ''},
   {href: '/#services', title: 'Usluge', section: 'services'},
   {href: '/#packages', title: 'Paketi', section: 'packages'},
-  {href: '/exterior', title: 'Exterior', section: ''},
-  {href: '/interior', title: 'Interior', section: ''},
+  {href: '/exterior', title: 'Eksterier', section: ''},
+  {href: '/interior', title: 'Enterijer', section: ''},
   {href: '/about', title: 'O nama', section: ''},
 ];
 

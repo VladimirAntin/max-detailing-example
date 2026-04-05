@@ -100,7 +100,7 @@ const Hero = () => {
             />
           </Link>
           <Link
-            href={'tel:+381641234567'}
+            href={'tel:+381601533727'}
             className={
               'group flex items-center gap-2 rounded-full border border-white/40 bg-white/10 px-8 py-4 font-medium text-white backdrop-blur-sm transition hover:border-white/70 hover:bg-white/20'
             }>

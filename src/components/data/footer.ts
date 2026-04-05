@@ -6,12 +6,12 @@ const socialLinks: Social[] = [
   },
   {
     name: 'WhatsApp',
-    href: 'https://wa.me/381641234567',
+    href: 'https://wa.me/381601533727',
     icon: 'whatsapp',
   },
   {
     name: 'Viber',
-    href: 'viber://chat?number=%2B381641234567',
+    href: 'viber://chat?number=%2B381601533727',
     icon: 'viber',
   },
 ];
@@ -27,7 +27,7 @@ const footerServices = [
 
 const footerItems = [
   {label: 'Početna', href: '/'},
-  {label: 'Eksterijer', href: '/exterior'},
+  {label: 'Eksterier', href: '/exterior'},
   {label: 'Enterijer', href: '/interior'},
   {label: 'O nama', href: '/about'},
   {label: 'Kontakt', href: '/about#contact'},

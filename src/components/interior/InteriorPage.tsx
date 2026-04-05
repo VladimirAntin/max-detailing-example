@@ -87,7 +87,7 @@ const InteriorPage = () => (
         src={
           'https://images.pexels.com/photos/1149831/pexels-photo-1149831.jpeg?auto=compress&cs=tinysrgb&w=1920'
         }
-        alt={'Interior car detailing'}
+        alt={'Enterijer car detailing'}
         className={'absolute inset-0 h-full w-full object-cover opacity-40'}
       />
       <div
@@ -253,11 +253,11 @@ const InteriorPage = () => (
               />
             </Link>
             <Link
-              href={'tel:+381641234567'}
+              href={'tel:+381601533727'}
               className={
                 'flex items-center gap-2 rounded-full border border-white/30 px-8 py-4 font-medium text-white transition hover:border-white/60 hover:bg-white/10'
               }>
-              {'+381 64 123 4567'}
+              {'+381 60 153 3727'}
             </Link>
           </div>
         </motion.div>
