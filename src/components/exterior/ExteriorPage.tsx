@@ -253,11 +253,11 @@ const ExteriorPage = () => (
               />
             </Link>
             <Link
-              href={'tel:+381601533727'}
+              href={'tel:+381653580793'}
               className={
                 'flex items-center gap-2 rounded-full border border-white/30 px-8 py-4 font-medium text-white transition hover:border-white/60 hover:bg-white/10'
               }>
-              {'+381 60 153 3727'}
+              {'+381 65 358 0793'}
             </Link>
           </div>
         </motion.div>
