@@ -4,7 +4,6 @@ import ArrowIcon from '@icons/ArrowIcon';
 import Link from 'next/link';
 import {cn} from '@utils/CN';
 import WaveDivider from '@/components/WaveDivider';
-import {motion} from 'framer-motion';
 
 const SLIDES = [
   'https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=1920',
